@@ -22,12 +22,11 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-https://github.com/user-attachments/assets/9775f95a-e2d5-4cb2-9b7f-b9efabca0424
-
+![web102_prework_VanKhanhDang](https://github.com/user-attachments/assets/98a60041-a2c3-4cb0-894f-d5f5ed4c3c44)
 
 GIF created with ...  
 
-Snipping Tool for Windows
+Snipping Tool for Windows and convert to .gif online.
 
 
 ## Notes
