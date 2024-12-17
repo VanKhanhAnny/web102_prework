@@ -32,7 +32,7 @@ Snipping Tool for Windows
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My challenge throughout the process was that there were some functions I hadn't learned before, which made things a bit difficult for me. However, I was very happy to learn new things and I am really looking forward to the Web102 course from CodePath.
 
 ## License
 
