@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 GIF created with ...  
 
-Snipping Tool for Windows and convert to .gif online.
+Snipping Tool for Windows and convert to .gif by Canva.
 
 
 ## Notes
